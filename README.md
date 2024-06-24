@@ -4,11 +4,9 @@ A curated list of resources for Unreal Engine. This repository aims to gather us
 ## Table of Contents
 
 1. [Official Documentation](#official-documentation)
-2. [Tutorials and Courses](#tutorials-and-courses)
-3. [Plugins and Tools](#plugins-and-tools)
-4. [Communities and Forums](#communities-and-forums)
-5. [Sample Projects](#sample-projects)
-6. [Books](#books)
+2. [Plugins and Tools](#plugins-and-tools)
+3. [Communities and Forums](#communities-and-forums)
+4. [Books](#books)
 
 ## Official Documentation
 
@@ -39,7 +37,7 @@ A curated list of resources for Unreal Engine. This repository aims to gather us
 - [Unreal Engine Texture/Material/Particles Optimizations](https://docs.google.com/document/d/1-guvLUfwk7fcVOuHCTEehJWf7i6AoDoU65jIKwSIG6Q/edit#heading=h.z6k1hl8sdu33)
 - [All You Need To Know About Texel Density](https://www.artstation.com/artwork/qbOqP)
 - [Blockout and Asset Production in Unreal Engine 5](https://dev.epicgames.com/community/learning/talks-and-demos/8k52/blockout-and-asset-production-in-unreal-engine-5)
-- [Lighting: Unreal 5 Features Reference]([url](https://medium.com/@shinsoj/lighting-features-cheat-sheet-5b81b63b3ab7))
+- [Lighting: Unreal 5 Features Reference](https://medium.com/@shinsoj/lighting-features-cheat-sheet-5b81b63b3ab7)
 
 - [Bringing Nanite to Fortnite Battle Royale in Chapter 4](https://www.unrealengine.com/en-US/tech-blog/bringing-nanite-to-fortnite-battle-royale-in-chapter-4)
 - [Unofficial Geometry Script & DynamicMeshComponent FAQ by GradientSpace](https://www.gradientspace.com/tutorials/2022/12/19/geometry-script-faq)
