@@ -15,23 +15,27 @@ A curated list of resources for Unreal Engine. This repository aims to gather us
 
 ## Tutorials, Courses and Articles
 
+### Official Resources
 - [Unreal Engine YouTube Channel](https://www.youtube.com/user/UnrealDevelopmentKit)
 - [Unreal Engine Learning Library](https://dev.epicgames.com/community/unreal-engine/learning?source=epic_games)
+
+### Advanced Programming Resources
 - [Unreal Engine Research Documents by staticJPL](https://github.com/staticJPL/Unreal-Engine-Documentation/tree/Documents)
   - These documents investigate inner workings of Unreal Engine which can be a great reference for C++ programmers digging into different systems.
-- [Common Unreal Slacker Issues & Tips by Dieter Tack](https://tackytortoise.github.io/2022/06/24/common-slacker-issues.html)
-- [Unreal Engine C++ Speedrun by Laura](https://landelare.github.io/2023/01/07/cpp-speedrun.html)
 - [Unreal Engine Multithreading](https://forums.unrealengine.com/t/multithreading-and-performance-in-unreal/1216417)
 - [Unreal Engine Delegates Profiling Tests](https://github.com/Niyoofficial/UEDelegatesProfilingTest)
-  - Contains a set of a simple automation tests with a purpose to measure unreal delegate system perfomance.
+  - Contains a set of a simple automation tests with a purpose to measure unreal delegate system performance.
+
+### Blueprint and UI
+- [Common Unreal Slacker Issues & Tips by Dieter Tack](https://tackytortoise.github.io/2022/06/24/common-slacker-issues.html)
+- [Unreal Engine C++ Speedrun by Laura](https://landelare.github.io/2023/01/07/cpp-speedrun.html)
 - [UMG and Slate Tutorials by benUI](https://benui.ca/)
   - [All UPROPERTY Specifiers](https://benui.ca/unreal/uproperty/)
 - [Hidden Pitfalls of Blueprints](https://celdevs.com/unreal-engine-and-the-hidden-pitfalls-of-blueprints/)
 - [Performance Guideline for Blueprints and making sense of Blueprint VM](https://intaxwashere.github.io/blueprint-performance/)
-- [Unreal Secrets Trello](https://trello.com/w/unrealsecrets)
-- [Version Control for Newbies by slightlybonkers](https://docs.google.com/document/d/1-NOspTVKX2eRgzmPKzoBmmnEqdPn-5G_IXt32IldB2c/edit#heading=h.anjvgs7vo2mk)
-- [Shader Performance Management](https://youtu.be/E82XxlXMJs4?feature=shared)
 
+### Performance and Optimization
+- [Shader Performance Management](https://youtu.be/E82XxlXMJs4?feature=shared)
 - [The process behind creating an optimized environment in Unreal Engine: a technical deep dive](https://www.youtube.com/watch?v=BDWjokUFmps)
 - [Texture Compression Guide](https://techarthub.com/your-guide-to-texture-compression-in-unreal-engine/)
 - [Unreal Engine Texture/Material/Particles Optimizations](https://docs.google.com/document/d/1-guvLUfwk7fcVOuHCTEehJWf7i6AoDoU65jIKwSIG6Q/edit#heading=h.z6k1hl8sdu33)
@@ -39,13 +43,15 @@ A curated list of resources for Unreal Engine. This repository aims to gather us
 - [Blockout and Asset Production in Unreal Engine 5](https://dev.epicgames.com/community/learning/talks-and-demos/8k52/blockout-and-asset-production-in-unreal-engine-5)
 - [Lighting: Unreal 5 Features Reference](https://medium.com/@shinsoj/lighting-features-cheat-sheet-5b81b63b3ab7)
 
+### Feature Extensions
 - [Bringing Nanite to Fortnite Battle Royale in Chapter 4](https://www.unrealengine.com/en-US/tech-blog/bringing-nanite-to-fortnite-battle-royale-in-chapter-4)
 - [Unofficial Geometry Script & DynamicMeshComponent FAQ by GradientSpace](https://www.gradientspace.com/tutorials/2022/12/19/geometry-script-faq)
 - [Modeling Mode Extension Plugins in UE5 by GradientSpace](https://www.gradientspace.com/tutorials/2022/5/27/modeling-mode-extension-plugins-in-ue5)
+- [Working with Data in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more)
 
+### UE4 Legacy
 - [UE4 Graphics Profiling: Measuring Performance](https://youtu.be/SXLYy6D1y80?feature=shared)
 - [UE4 Graphics Profiling: Pipeline and Bottlenecks](https://www.youtube.com/watch?v=UZH4vZ0NDAw)
-- [UE4 Graphics Proflining: GPU Visualizer](https://www.youtube.com/watch?v=fLhim2BNtWE)
 - [UE4 Graphics Profiling: GPU Visualizer](https://www.youtube.com/watch?v=fLhim2BNtWE)
 - [UE4 Graphics Profiling: All Categories Guide (Rendering Passes)](https://www.youtube.com/watch?v=C3lumWdwHmA)
 - [Collision Filtering (Legacy UE4 Article)](https://www.unrealengine.com/en-US/blog/collision-filtering)
