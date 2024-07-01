@@ -33,6 +33,7 @@ A curated list of resources for Unreal Engine. This repository aims to gather us
   - [All UPROPERTY Specifiers](https://benui.ca/unreal/uproperty/)
 - [Hidden Pitfalls of Blueprints](https://celdevs.com/unreal-engine-and-the-hidden-pitfalls-of-blueprints/)
 - [Performance Guideline for Blueprints and making sense of Blueprint VM](https://intaxwashere.github.io/blueprint-performance/)
+- [Get the currently focused widget in Unreal Engine](https://georgy.dev/posts/get-focused-widget/)
 
 ### Performance and Optimization
 - [Shader Performance Management](https://youtu.be/E82XxlXMJs4?feature=shared)
@@ -48,6 +49,7 @@ A curated list of resources for Unreal Engine. This repository aims to gather us
 - [Unofficial Geometry Script & DynamicMeshComponent FAQ by GradientSpace](https://www.gradientspace.com/tutorials/2022/12/19/geometry-script-faq)
 - [Modeling Mode Extension Plugins in UE5 by GradientSpace](https://www.gradientspace.com/tutorials/2022/5/27/modeling-mode-extension-plugins-in-ue5)
 - [Working with Data in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more)
+- [Modular Features (IModularFeatures)](https://georgy.dev/posts/modular-features/)
 
 ### UE4 Legacy
 - [UE4 Graphics Profiling: Measuring Performance](https://youtu.be/SXLYy6D1y80?feature=shared)
